@@ -1,3 +1,5 @@
+<img alt="my banner" src="https://github.com/user-attachments/assets/e7159ff1-ddf8-4561-983f-409fb1ca7a16">
+
 # Hi there, I'm Azza Farichi Tjahjono 👋
 
 I'm a passionate student of **Deep Learning** and **Machine Learning**, currently studying at **ITS**. I love exploring the world of artificial intelligence, solving challenges, and building solutions that leverage the power of data.
